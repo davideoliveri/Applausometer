@@ -1,8 +1,8 @@
 ## Applausometer
 
-Applausometer can be used in conjuction with a Syphon enabled software (thus it's limited to OS-X) to project and evalueta the "noise" of two goups of people. 
+Applausometer can be used in conjuction with a Syphon enabled software (thus it's limited to OS-X) to project and evaluate the "noise" of two goups of people. 
 
-It uses the core processing library minim and the [Syphon library for Processing](https://code.google.com/p/syphon-implementations/downloads/detail?name=SyphonProcessing-1.0-RC1.zip&can=2&q=)
+It uses the core processing library _minim_ and the [Syphon library for Processing](https://code.google.com/p/syphon-implementations/downloads/detail?name=SyphonProcessing-1.0-RC1.zip&can=2&q=)
 
 ![screenshot of the application](Applausometer_screenshot.png)
 
