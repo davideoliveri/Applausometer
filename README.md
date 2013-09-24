@@ -9,3 +9,5 @@ It uses the core processing library minim and the [Syphon library for Processing
 ## Caution
 
 With some software the Syphon output can be delivered upside-down, you can use a flip filter to adjust the image, it is the faster and lighter solution for this issue.
+
+Tested with Processing 2.0.3
